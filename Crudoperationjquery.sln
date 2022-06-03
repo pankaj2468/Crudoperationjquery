@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crudoperationjquery", "Crudoperationjquery\Crudoperationjquery.csproj", "{C66CD546-7B08-4084-8469-680AA9E0E860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectjquery", "UnitTestProjectjquery\UnitTestProjectjquery.csproj", "{318EEEBE-5862-4B2F-8049-811FE97418FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66CD546-7B08-4084-8469-680AA9E0E860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66CD546-7B08-4084-8469-680AA9E0E860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66CD546-7B08-4084-8469-680AA9E0E860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66CD546-7B08-4084-8469-680AA9E0E860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318EEEBE-5862-4B2F-8049-811FE97418FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318EEEBE-5862-4B2F-8049-811FE97418FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318EEEBE-5862-4B2F-8049-811FE97418FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318EEEBE-5862-4B2F-8049-811FE97418FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67941438-E1A6-41F3-91D1-576A49D753F3}
+	EndGlobalSection
+EndGlobal
